@@ -1,4 +1,4 @@
-# animated_login_screen
+# Animated Login Screen
 
 A new Flutter project.
 
