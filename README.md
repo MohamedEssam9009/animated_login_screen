@@ -1,6 +1,6 @@
 # Animated Login Screen
 
-A new Flutter project.
+Challenges of different designs and applications using Flutter
 
 ## Screen Shot
 ![Animated Login Screen Presentation](https://user-images.githubusercontent.com/77198018/200709020-78a84d39-bef0-43c5-a231-3077560dc7aa.png)
