@@ -1,4 +1,3 @@
-import 'package:animated_login_screen/login_screen.dart';
 import 'package:animated_login_screen/login_screen_2.dart';
 import 'package:flutter/material.dart';
 
